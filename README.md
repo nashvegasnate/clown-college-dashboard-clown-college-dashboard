@@ -1,17 +1,10 @@
-# Clown College [![Netlify Status](https://api.netlify.com/api/v1/badges/0c863477-0555-44fa-a891-ff5fc842a709/deploy-status)](https://app.netlify.com/sites/cranky-curran-ea8e6c/deploys)
+# Clown College 
 
 The art of comedy is not lost, especially not here at <funny name>. Due to declining enrollment numbers, the Dean wants an admin dashboard to keep track of the students, the teachers, the classes, and the lessons.
 
 [View App](https://cranky-curran-ea8e6c.netlify.app/)
-
-## Get Started
-
-```terminal
-$ git clone git@github.com:nss-evening-cohort-14/clown-college-dashboard-clown-college-dashboard.git
-$ cd clown-college-dashboard-clown-college-dashboard
-$ npm i
-$ npm start
-```
+  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c863477-0555-44fa-a891-ff5fc842a709/deploy-status)](https://app.netlify.com/sites/cranky-curran-ea8e6c/deploys)
 
 ## Features
 
